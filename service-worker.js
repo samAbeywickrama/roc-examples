@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/roc-examples/precache-manifest.da4f980c6334c6d0e8e8776890c2dc88.js"
+  "/roc-examples/precache-manifest.27988a7605c34775c929418a03569441.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/roc-examples/static/css/main.a5633cc2.chunk.css",
+    "main.css": "/roc-examples/static/css/main.0ab664b3.chunk.css",
     "main.js": "/roc-examples/static/js/main.22c913be.chunk.js",
     "main.js.map": "/roc-examples/static/js/main.22c913be.chunk.js.map",
     "runtime~main.js": "/roc-examples/static/js/runtime~main.5bc91ea4.js",
@@ -8,8 +8,8 @@
     "static/js/2.acc348f4.chunk.js": "/roc-examples/static/js/2.acc348f4.chunk.js",
     "static/js/2.acc348f4.chunk.js.map": "/roc-examples/static/js/2.acc348f4.chunk.js.map",
     "index.html": "/roc-examples/index.html",
-    "precache-manifest.da4f980c6334c6d0e8e8776890c2dc88.js": "/roc-examples/precache-manifest.da4f980c6334c6d0e8e8776890c2dc88.js",
+    "precache-manifest.27988a7605c34775c929418a03569441.js": "/roc-examples/precache-manifest.27988a7605c34775c929418a03569441.js",
     "service-worker.js": "/roc-examples/service-worker.js",
-    "static/css/main.a5633cc2.chunk.css.map": "/roc-examples/static/css/main.a5633cc2.chunk.css.map"
+    "static/css/main.0ab664b3.chunk.css.map": "/roc-examples/static/css/main.0ab664b3.chunk.css.map"
   }
 }
