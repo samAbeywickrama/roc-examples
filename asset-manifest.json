@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roc-examples/static/css/main.d7416d77.chunk.css",
+    "main.js": "/roc-examples/static/js/main.22c913be.chunk.js",
+    "main.js.map": "/roc-examples/static/js/main.22c913be.chunk.js.map",
+    "runtime~main.js": "/roc-examples/static/js/runtime~main.5bc91ea4.js",
+    "runtime~main.js.map": "/roc-examples/static/js/runtime~main.5bc91ea4.js.map",
+    "static/js/2.acc348f4.chunk.js": "/roc-examples/static/js/2.acc348f4.chunk.js",
+    "static/js/2.acc348f4.chunk.js.map": "/roc-examples/static/js/2.acc348f4.chunk.js.map",
+    "index.html": "/roc-examples/index.html",
+    "precache-manifest.5c63c18d8f0dec6016dca3cfb19524be.js": "/roc-examples/precache-manifest.5c63c18d8f0dec6016dca3cfb19524be.js",
+    "service-worker.js": "/roc-examples/service-worker.js",
+    "static/css/main.d7416d77.chunk.css.map": "/roc-examples/static/css/main.d7416d77.chunk.css.map"
+  }
+}
